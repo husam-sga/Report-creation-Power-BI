@@ -9,5 +9,5 @@ Using the sales data of a virtual company called "Superstore"; the goal is to cr
 3- Power BI Report View (Visualizations Creation)  
 
 # Project files:
-1- Dataset (superstore.xlmx)   
-2- Report inside Power BI (final_report.pbi)
+1- Dataset (dataset_superstore.xlsx)   
+2- Report inside Power BI (final_report.pbix)
